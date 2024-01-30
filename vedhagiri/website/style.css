@@ -1,0 +1,149 @@
+body {
+    background: rgb(255, 255, 255);
+    padding: 0;
+    width: 100%;
+    height: 100%;
+}
+
+ul {
+    position: fixed;
+    list-style: none;
+    margin-right: 20px;
+    background-color: rgb(113, 113, 210);
+    width: 20rem;
+    height: 100%;
+    font-size: 2rem;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+li {
+    margin-top: 10px;
+    margin-left: 60px;
+
+}
+
+.menu {
+    margin-top: 60px;
+}
+
+.a {
+    text-decoration: none;
+    color: white;
+    margin-top: 2rem;
+}
+
+.a:hover {
+    background-color: black;
+}
+
+p {
+    margin-top: 47%;
+    margin-left: 30px;
+    position: absolute;
+    font-size: 24px;
+    font-weight: 200;
+    color: rgb(223, 37, 111);
+}
+
+.content {
+    position: absolute;
+    margin-top: 15rem;
+    margin-left: 48%;
+    color: cadetblue;
+}
+
+.heading {
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+
+
+}
+
+.service {
+    position: absolute;
+    margin-left: 50%;
+    margin-top: 23rem;
+    font-size: 30px;
+
+
+}
+
+.title {
+    margin-left: 47%;
+    margin-top: 70px;
+    position: absolute;
+    font-size: 03rem;
+    color: rgba(233, 33, 33, 0.609);
+}
+
+.copy-rights {
+    color: rgb(186, 20, 20);
+}
+
+.line {
+    width: 7px;
+    height: 10.8rem;
+    background-color: brown;
+    position: absolute;
+    margin-left: 49%;
+    margin-top: 19.5%;
+    border-radius: 10px;
+}
+
+footer {
+    position: absolute;
+    margin-top: 47%;
+    background-color: rgb(224, 232, 110);
+    width: 80.7%;
+    height: 52px;
+    margin-left: 18.8%;
+    align-items: center;
+    text-align: center;
+    font-size: 23px;
+
+
+}
+
+.top {
+    background-color: black;
+    width: 99.6%;
+    height: 32px;
+    position: absolute;
+}
+
+.info {
+    margin-left: 45%;
+    margin-top: 70px;
+    color: brown;
+    font-size: 3rem;
+}
+
+.contact {
+    margin-top: 10%;
+}
+
+.whatsapp {
+    margin-left: 40%;
+}
+
+.gmail {
+    margin-left: 70px;
+}
+
+.social-media {
+    margin-left: 70px;
+}
+
+.about-us {
+    margin-left: 40%;
+    color: blue;
+    margin-top: 10%;
+}
+
+.text {
+    margin-left: 20%;
+    color: rgb(111, 66, 195);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}

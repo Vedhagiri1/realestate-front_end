@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sign Up</title>
+    <link rel="stylesheet" href="style1.css">
+    <style>
+        body {
+
+            margin-top: 05%;
+            margin-left: 40%;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div id="preloader">
+        <div class="spinner"></div>
+    </div>
+    <form class="signin" onsubmit="handleSubmit(event)" method="post">
+
+        <img src="assets/login.png" alt="signup" class="signup" ><br>
+        <h2>Sign UP</h2>
+        <input type="text" required class="email" placeholder="Enter User name" ><br>
+        <input type="text" required placeholder="Enter Email" class="email"><br>
+        <input type="password" required class="pwsd" placeholder="Enter Password"><br>
+        <button type="submit" class="button">submit</button>
+        <h4 id="login"><a href="login.html">Login</a></h4>
+    </form>
+    <script src="script.js"></script>
+</body>
+
+</html>
